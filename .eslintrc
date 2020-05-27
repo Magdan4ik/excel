@@ -15,6 +15,7 @@
 		"comma-dangle": "off",
 		"keyword-spacing": "off",
 		"require-jsdoc": "off",
+		"operator-linebreak": "off",
 		"object-curly-spacing": ["error", "always", { "objectsInObjects": false }]
 	}
 }
